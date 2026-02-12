@@ -7,7 +7,7 @@ Plataforma centralizada para que organizadores possam divulgar torneios de e-spo
 
 # Objetivos do Sistema
 - Facilitar a visibilidade de torneios amadores e semiprofissionais.
-- Oferecer filtros de busca por plataforma (PS5, Xbox, Android, iOS).
+- Oferecer filtros de busca por plataforma (Console, Mobile e PC).
 - Criar uma vitrine organizada para a comunidade gamer.
 
 # tecnologias e ferramentas Propostas
