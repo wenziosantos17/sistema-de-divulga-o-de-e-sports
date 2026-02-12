@@ -22,7 +22,7 @@ Plataforma centralizada para que organizadores possam divulgar torneios de e-spo
 # Estrutura do Banco de Dados
 O banco de dados foi modelado para garantir a integridade dos dados e facilitar a filtragem. As tabelas principais são:
 1. Usuarios: Cadastro de organizadores e jogadores.
-2. Plataformas: Diferenciação entre Mobile e Console.
+2. Plataformas: Diferenciação entre Mobile, Console ou PC.
 3. Jogos: Listagem de títulos (eFootball, Free Fire, etc.).
 4. Campeonatos: Onde as informações se cruzam (tabela principal).
 
