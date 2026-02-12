@@ -1,6 +1,6 @@
 # sistema-de-divulga-o-de-e-sports
 
-# Portal de Divulgação de Campeonatos (Mobile & Console)
+# Portal de Divulgação de Campeonatos (Mobile, Console ou PC)
 
 # Descrição do Projeto
 Plataforma centralizada para que organizadores possam divulgar torneios de e-sports, permitindo que jogadores busquem competições por filtros de jogo e plataforma.
